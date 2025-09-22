@@ -5,6 +5,17 @@ All notable changes to the Iconic Comments extension will be documented in this 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.1] - 2024-09-22
+
+### Changed
+- Updated extension icon with new gradient design featuring square brackets and decorative elements
+- Enhanced documentation with GitHub repository links
+- Added support for bun package manager alongside npm and pnpm
+
+### Fixed
+- Updated all repository URLs to point to correct GitHub repository
+- Improved development setup instructions
+
 ## [1.0.0] - 2024-09-22
 
 ### Added
