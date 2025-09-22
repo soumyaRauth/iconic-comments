@@ -140,7 +140,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ### Prerequisites
 - Node.js
-- npm or pnpm
+- npm, pnpm, or bun
 - VSCode
 
 ### Setup
@@ -150,6 +150,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
    npm install
    # or
    pnpm install
+   # or
+   bun install
    ```
 3. Open in VSCode
 4. Press `F5` to run the extension in a new Extension Development Host window
@@ -159,6 +161,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 npm run compile
 # or
 pnpm run compile
+# or
+bun run compile
 ```
 
 ### Packaging
@@ -166,6 +170,8 @@ pnpm run compile
 npm run package
 # or
 pnpm run package
+# or
+bun run package
 ```
 
 ## License
