@@ -1,0 +1,301 @@
+{
+  "Check Comment": {
+    "prefix": "ii.ok",
+    "body": [
+      "// ✅ $1"
+    ],
+    "description": "Success / done"
+  },
+  "Info Comment": {
+    "prefix": "ii.info",
+    "body": [
+      "// ℹ️ $1"
+    ],
+    "description": "Informational note"
+  },
+  "Warning Comment": {
+    "prefix": "ii.warning",
+    "body": [
+      "// ⚠️ $1"
+    ],
+    "description": "Warning"
+  },
+  "Error Comment": {
+    "prefix": "ii.error",
+    "body": [
+      "// ❌ $1"
+    ],
+    "description": "Error / failure"
+  },
+  "Bug Comment": {
+    "prefix": "ii.bug",
+    "body": [
+      "// 🐞 BUG: $1"
+    ],
+    "description": "Mark a bug"
+  },
+  "Fix Comment": {
+    "prefix": "ii.fix",
+    "body": [
+      "// 🔧 FIX: $1"
+    ],
+    "description": "Fix needed or applied"
+  },
+  "Idea Comment": {
+    "prefix": "ii.idea",
+    "body": [
+      "// 💡 IDEA: $1"
+    ],
+    "description": "Idea / suggestion"
+  },
+  "Note Comment": {
+    "prefix": "ii.note",
+    "body": [
+      "// 📝 NOTE: $1"
+    ],
+    "description": "General note"
+  },
+  "Docs Comment": {
+    "prefix": "ii.docs",
+    "body": [
+      "// 📚 DOCS: $1"
+    ],
+    "description": "Documentation reference"
+  },
+  "Security Comment": {
+    "prefix": "ii.security",
+    "body": [
+      "// 🛡️ SECURITY: $1"
+    ],
+    "description": "Security concern or note"
+  },
+  "Performance Comment": {
+    "prefix": "ii.performance",
+    "body": [
+      "// ⚡ PERFORMANCE: $1"
+    ],
+    "description": "Performance hint"
+  },
+  "Test Comment": {
+    "prefix": "ii.test",
+    "body": [
+      "// 🧪 TEST: $1"
+    ],
+    "description": "Testing note"
+  },
+  "Question Comment": {
+    "prefix": "ii.question",
+    "body": [
+      "// ❓ QUESTION: $1"
+    ],
+    "description": "Open question"
+  },
+  "Deprecated Comment": {
+    "prefix": "ii.deprecated",
+    "body": [
+      "// ⛔ DEPRECATED: $1"
+    ],
+    "description": "Deprecated notice"
+  },
+  "Refactor Comment": {
+    "prefix": "ii.refactor",
+    "body": [
+      "// ♻️ REFACTOR: $1"
+    ],
+    "description": "Refactor reminder"
+  },
+  "Review Comment": {
+    "prefix": "ii.review",
+    "body": [
+      "// 👀 REVIEW: $1"
+    ],
+    "description": "Needs review"
+  },
+  "Blocked Comment": {
+    "prefix": "ii.blocked",
+    "body": [
+      "// 🚫 BLOCKED: $1"
+    ],
+    "description": "Blocked by something"
+  },
+  "WIP Comment": {
+    "prefix": "ii.wip",
+    "body": [
+      "// 🏗️ WIP: $1"
+    ],
+    "description": "Work in progress"
+  },
+  "Hotfix Comment": {
+    "prefix": "ii.hotfix",
+    "body": [
+      "// 🔥 HOTFIX: $1"
+    ],
+    "description": "Hot/urgent issue"
+  },
+  "API Comment": {
+    "prefix": "ii.api",
+    "body": [
+      "// 🔌 API: $1"
+    ],
+    "description": "API-related note"
+  },
+  "Database Comment": {
+    "prefix": "ii.database",
+    "body": [
+      "// 🛢️ DATABASE: $1"
+    ],
+    "description": "Database-related note"
+  },
+  "UI Comment": {
+    "prefix": "ii.ui",
+    "body": [
+      "// 🎨 UI: $1"
+    ],
+    "description": "UI note"
+  },
+  "UX Comment": {
+    "prefix": "ii.ux",
+    "body": [
+      "// 🧭 UX: $1"
+    ],
+    "description": "UX note"
+  },
+  "Log Comment": {
+    "prefix": "ii.log",
+    "body": [
+      "// 📋 LOG: $1"
+    ],
+    "description": "Logging note"
+  },
+  "Link Comment": {
+    "prefix": "ii.link",
+    "body": [
+      "// 🔗 $1"
+    ],
+    "description": "Reference link placeholder"
+  },
+  "Pin Comment": {
+    "prefix": "ii.pin",
+    "body": [
+      "// 📌 $1"
+    ],
+    "description": "Important pinned note"
+  },
+  "Time Comment": {
+    "prefix": "ii.time",
+    "body": [
+      "// ⏱️ TIME: $1"
+    ],
+    "description": "Timing / SLA note"
+  },
+  "Cleanup Comment": {
+    "prefix": "ii.cleanup",
+    "body": [
+      "// 🧹 CLEANUP: $1"
+    ],
+    "description": "Code cleanup task"
+  },
+  "Config Comment": {
+    "prefix": "ii.config",
+    "body": [
+      "// ⚙️ CONFIG: $1"
+    ],
+    "description": "Configuration note"
+  },
+  "Package Comment": {
+    "prefix": "ii.package",
+    "body": [
+      "// 📦 PACKAGE: $1"
+    ],
+    "description": "Package/dependency note"
+  },
+  "Env Comment": {
+    "prefix": "ii.env",
+    "body": [
+      "// 🌱 ENV: $1"
+    ],
+    "description": "Environment variable note"
+  },
+  "TODO Line": {
+    "prefix": "ii.todo",
+    "body": [
+      "// ✅ TODO: $1"
+    ],
+    "description": "TODO with check icon"
+  },
+  "Banner Block": {
+    "prefix": "ii.banner",
+    "body": [
+      "/* ====================================================",
+      "   $1",
+      "   ==================================================== */"
+    ],
+    "description": "Big banner block"
+  },
+  "Wrap Selection with TODO Block": {
+    "prefix": "ii.todo.wrap",
+    "body": [
+      "/* TODO: $1 */",
+      "$TM_SELECTED_TEXT"
+    ],
+    "description": "Prepend TODO block above selection"
+  },
+  "Region Start": {
+    "prefix": "ii.region",
+    "body": [
+      "// #region $1"
+    ],
+    "description": "Start a folding region"
+  },
+  "Region End": {
+    "prefix": "ii.endregion",
+    "body": [
+      "// #endregion"
+    ],
+    "description": "End a folding region"
+  },
+  "Icons Cheatsheet": {
+    "prefix": "ii.icons",
+    "body": [
+      "/* Icon Comment Cheatsheet ------------------------------",
+      "ii.ok         → ✅  Success / done",
+      "ii.info       → ℹ️  Informational note",
+      "ii.warning    → ⚠️  Warning",
+      "ii.error      → ❌  Error / failure",
+      "ii.bug        → 🐞  BUG",
+      "ii.fix        → 🔧  FIX",
+      "ii.idea       → 💡  IDEA",
+      "ii.note       → 📝  NOTE",
+      "ii.docs       → 📚  DOCS",
+      "ii.security   → 🛡️  SECURITY",
+      "ii.performance→ ⚡  PERFORMANCE",
+      "ii.test       → 🧪  TEST",
+      "ii.question   → ❓  QUESTION",
+      "ii.deprecated → ⛔  DEPRECATED",
+      "ii.refactor   → ♻️  REFACTOR",
+      "ii.review     → 👀  REVIEW",
+      "ii.blocked    → 🚫  BLOCKED",
+      "ii.wip        → 🏗️  WIP",
+      "ii.hotfix     → 🔥  HOTFIX",
+      "ii.api        → 🔌  API",
+      "ii.database   → 🛢️  DATABASE",
+      "ii.ui         → 🎨  UI",
+      "ii.ux         → 🧭  UX",
+      "ii.log        → 📋  LOG",
+      "ii.link       → 🔗  Reference link",
+      "ii.pin        → 📌  Pinned note",
+      "ii.time       → ⏱️  TIME",
+      "ii.cleanup    → 🧹  CLEANUP",
+      "ii.config     → ⚙️  CONFIG",
+      "ii.package    → 📦  PACKAGE",
+      "ii.env        → 🌱  ENV",
+      "ii.todo       → ✅  TODO line",
+      "ii.banner     → Banner block",
+      "ii.todo.wrap  → Wrap selection with TODO",
+      "ii.region     → #region start",
+      "ii.endregion  → #endregion end",
+      "------------------------------------------------------ */"
+    ],
+    "description": "Dump a quick list of all your snippet prefixes"
+  }
+}
