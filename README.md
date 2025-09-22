@@ -134,27 +134,38 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+**GitHub Repository**: [https://github.com/soumyaRauth/iconic-comments](https://github.com/soumyaRauth/iconic-comments)
+
 ## Development
 
 ### Prerequisites
 - Node.js
-- npm
+- npm or pnpm
 - VSCode
 
 ### Setup
 1. Clone the repository
-2. Run `npm install`
+2. Install dependencies:
+   ```bash
+   npm install
+   # or
+   pnpm install
+   ```
 3. Open in VSCode
 4. Press `F5` to run the extension in a new Extension Development Host window
 
 ### Building
 ```bash
 npm run compile
+# or
+pnpm run compile
 ```
 
 ### Packaging
 ```bash
 npm run package
+# or
+pnpm run package
 ```
 
 ## License
@@ -167,7 +178,7 @@ See [CHANGELOG.md](CHANGELOG.md) for a list of changes and version history.
 
 ## Issues
 
-If you encounter any issues or have suggestions, please file an issue on the [GitHub repository](https://github.com/your-username/iconic-comments/issues).
+If you encounter any issues or have suggestions, please file an issue on the [GitHub repository](https://github.com/soumyaRauth/iconic-comments/issues).
 
 ## Acknowledgments
 

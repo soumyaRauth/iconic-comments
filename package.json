@@ -72,12 +72,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sdr/iconic-comments.git"
+    "url": "https://github.com/soumyaRauth/iconic-comments.git"
   },
   "bugs": {
-    "url": "https://github.com/sdr/iconic-comments/issues"
+    "url": "https://github.com/soumyaRauth/iconic-comments/issues"
   },
-  "homepage": "https://github.com/sdr/iconic-comments#readme",
+  "homepage": "https://github.com/soumyaRauth/iconic-comments#readme",
   "license": "MIT",
   "icon": "images/icon.png"
 }
