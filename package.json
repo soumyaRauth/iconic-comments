@@ -2,7 +2,7 @@
   "name": "iconic-comments",
   "displayName": "Iconic Comments",
   "description": "Emoji-powered comment snippets for better code documentation and organization",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "srd",
   "engines": {
     "vscode": "^1.74.0"

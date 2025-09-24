@@ -10,6 +10,10 @@ A VSCode extension that provides emoji-powered comment snippets for better code 
 - 🎨 **Visual Organization** - Use emojis to categorize and highlight different types of comments
 - 📋 **Built-in Cheatsheet** - Access the complete list of snippets via command palette
 
+## Demo
+
+![Iconic Comments Demo](images/iconic_comments.gif)
+
 ## Installation
 
 ### From VSCode Marketplace
