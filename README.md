@@ -2,6 +2,8 @@
 
 A VSCode extension that provides emoji-powered comment snippets for better code documentation and organization. Transform your code comments with expressive emojis that make your code more readable and maintainable.
 
+Made by [Soumya Darshan Rauth](https://soumya-rauth.cyou). Read [how Iconic Comments make code scannable in practice](https://soumya-rauth.cyou/blog/iconic-comments-in-practice).
+
 ## Features
 
 - 🎯 **30+ Comment Snippets** - Comprehensive set of emoji-powered comment templates
@@ -177,6 +179,10 @@ pnpm run package
 # or
 bun run package
 ```
+
+## Author
+
+**Soumya Darshan Rauth**: [soumya-rauth.cyou](https://soumya-rauth.cyou) · [GitHub](https://github.com/soumyaRauth)
 
 ## License
 
